@@ -1,3 +1,2 @@
-config:
-  datasource:
-    username: chen
+datasource:
+  username: chen
